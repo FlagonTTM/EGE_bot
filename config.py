@@ -1,1 +1,1 @@
-TOKEN = '5452388141:AAEY0YLhx4gVXaeojCuotfcuJ-i_r99MTuQ'
+TOKEN = 'ВАШ_ТОКЕН'
