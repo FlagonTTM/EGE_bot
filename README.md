@@ -7,7 +7,7 @@
 
 ```https://github.com/FlagonTTM/EGE_bot.git```
 
-2. Переход в директорию Oxygen
+2. Переход в директорию
 
 ```cd EGE_bot```
 
